@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nosa-devs I'm an aspiring fullstack developer
 - 👀 I’m interested in ... Programming, Web development, Web design
-- 🌱 I’m currently learning ... Frontend web development
+- 🌱 I’m currently learning ... Fullstack web development
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... WhatsApp +2347038188246
 
